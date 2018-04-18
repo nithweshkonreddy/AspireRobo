@@ -1,3 +1,6 @@
+
+This is venkata changes added.
+
 JBoss BPM Customer Evaluation Demo Quickstart Guide
 ===================================================
 
@@ -10,7 +13,7 @@ JBoss BPM Customer Evaluation Demo Quickstart Guide
 Setup and Configuration
 -----------------------
 
-See Quick Start Guide in project as ODT and PDF for details on installation. For those that can't wait:
+See Quick Start Guide in project as ODT anad PDF for details on installation. For those that can't wait:
 
 - see README in 'installs' directory
 
